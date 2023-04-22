@@ -4,5 +4,6 @@ public class Main {
         ListOfEmployees.getNames();
         PhoneBook.createPhoneBook();
         RomanNumbers.mainLogic();
+        HeapSort.printSortedList();
     }
 }
